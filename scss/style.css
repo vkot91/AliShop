@@ -422,7 +422,7 @@ nav .search-btn::before {
   letter-spacing: 0.3px;
 }
 .card-add-cart {
-  display: none;
+  display: block;
   margin: 0 auto;
   background: #ff9a00;
   padding: 3px 9px;
